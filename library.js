@@ -4,5 +4,6 @@ var d$ = {
 			var data = api[endpoint];
 			callback(data);
 		}, Math.random() * 5000);
-	}
+	},
+	//add more functions here!
 };
